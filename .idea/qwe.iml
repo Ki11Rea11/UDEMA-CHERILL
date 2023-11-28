@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/www/Src" isTestSource="false" packagePrefix="Src\" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/j4mie/idiorm" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/laminas/laminas-diactoros" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/miladrahimi/phpcontainer" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/miladrahimi/phprouter" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/psr/http-message" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
